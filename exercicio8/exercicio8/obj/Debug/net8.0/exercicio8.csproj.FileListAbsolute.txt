@@ -1,0 +1,14 @@
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\bin\Debug\net8.0\exercicio8.exe
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\bin\Debug\net8.0\exercicio8.deps.json
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\bin\Debug\net8.0\exercicio8.runtimeconfig.json
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\bin\Debug\net8.0\exercicio8.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\bin\Debug\net8.0\exercicio8.pdb
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.AssemblyInfoInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.AssemblyInfo.cs
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\refint\exercicio8.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.pdb
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\exercicio8.genruntimeconfig.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\exercicios_c#\exercicio8\exercicio8\exercicio8\obj\Debug\net8.0\ref\exercicio8.dll
